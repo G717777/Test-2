@@ -3,4 +3,6 @@ C:\Users\Gwen\Downloads\Pong\C++ PracticeGame\Renderer.cpp(64,9): warning C4244:
 C:\Users\Gwen\Downloads\Pong\C++ PracticeGame\Renderer.cpp(65,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
 C:\Users\Gwen\Downloads\Pong\C++ PracticeGame\Renderer.cpp(66,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
 C:\Users\Gwen\Downloads\Pong\C++ PracticeGame\Renderer.cpp(67,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Gwen\Downloads\Pong\C++ PracticeGame\Game.cpp(169,58): warning C4305: 'argument': truncation from '__int64' to 'u32'
+C:\Users\Gwen\Downloads\Pong\C++ PracticeGame\Game.cpp(169,45): warning C4309: 'argument': truncation of constant value
   C++ PracticeGame.vcxproj -> C:\Users\Gwen\Downloads\Pong\x64\Debug\C++ PracticeGame.exe
