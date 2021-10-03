@@ -1,0 +1,6 @@
+﻿  Win32_Platform.cpp
+C:\Users\Gwen\Downloads\Pong\C++ PracticeGame\Renderer.cpp(64,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Gwen\Downloads\Pong\C++ PracticeGame\Renderer.cpp(65,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Gwen\Downloads\Pong\C++ PracticeGame\Renderer.cpp(66,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Gwen\Downloads\Pong\C++ PracticeGame\Renderer.cpp(67,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  C++ PracticeGame.vcxproj -> C:\Users\Gwen\Downloads\Pong\x64\Debug\C++ PracticeGame.exe

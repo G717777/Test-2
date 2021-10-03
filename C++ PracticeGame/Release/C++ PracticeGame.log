@@ -1,0 +1,11 @@
+﻿  Win32_Platform.cpp
+C:\Users\Gwen\Downloads\C++ PracticeGame\C++ PracticeGame\Renderer.cpp(64,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Gwen\Downloads\C++ PracticeGame\C++ PracticeGame\Renderer.cpp(65,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Gwen\Downloads\C++ PracticeGame\C++ PracticeGame\Renderer.cpp(66,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Gwen\Downloads\C++ PracticeGame\C++ PracticeGame\Renderer.cpp(67,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Gwen\Downloads\C++ PracticeGame\C++ PracticeGame\Win32_Platform.cpp(72,5): warning C4007: 'WinMain': must be '__stdcall'
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 13 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  C++ PracticeGame.vcxproj -> C:\Users\Gwen\Downloads\C++ PracticeGame\Release\C++ PracticeGame.exe
